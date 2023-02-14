@@ -1,12 +1,17 @@
 import React from 'react';
 import Sidebar from "./Sidebar";
-import MainContainer from "./MainContainer";
+import { Outlet } from 'react-router-dom';
+// import MainContainer from "./MainContainer";
+// import WatchPage from './WatchPage';
 
 const Body = () => {
   return (
     <div className='flex'>
       <Sidebar />
-      <MainContainer />
+      {/* Outlet will do Dynamix routing for below components */}
+      <Outlet />
+      {/* <MainContainer />
+      <WatchPage/> */}
     </div>
   );
 }
