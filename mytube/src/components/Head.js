@@ -1,7 +1,7 @@
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import { toggleMenu } from '../utils/appSlice';
-import { GoSearch } from 'react-icons/go';
+// import { GoSearch } from 'react-icons/go';
 
 
 const Head = () => {
@@ -29,7 +29,7 @@ const Head = () => {
       <div className='col-span-10 px-10 flex'>
         <input className='w-1/2 border border-grey-400 p-2 rounded-l-full'
           type="text" />
-        <button className=' p-3 border border-gray-400 rounded-r-full px-5 py-2 bg-gray-100'><GoSearch /></button>
+        <button className=' p-3 border border-gray-400 rounded-r-full px-5 py-2 bg-gray-100'>🔍</button>
       </div>
       <div>
         <img className='h-8 col-span-1'
