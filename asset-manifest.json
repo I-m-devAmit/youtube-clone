@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/I-m-devAmit/youtube-clone.git/static/css/main.c0b330a0.css",
+    "main.js": "/I-m-devAmit/youtube-clone.git/static/js/main.04c94d01.js",
+    "static/js/787.246266f7.chunk.js": "/I-m-devAmit/youtube-clone.git/static/js/787.246266f7.chunk.js",
+    "index.html": "/I-m-devAmit/youtube-clone.git/index.html",
+    "main.c0b330a0.css.map": "/I-m-devAmit/youtube-clone.git/static/css/main.c0b330a0.css.map",
+    "main.04c94d01.js.map": "/I-m-devAmit/youtube-clone.git/static/js/main.04c94d01.js.map",
+    "787.246266f7.chunk.js.map": "/I-m-devAmit/youtube-clone.git/static/js/787.246266f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b330a0.css",
+    "static/js/main.04c94d01.js"
+  ]
+}
